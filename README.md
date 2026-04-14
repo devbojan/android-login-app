@@ -8,7 +8,7 @@ This project is a simple Android Login Application designed to demonstrate core 
 
 The application simulates a real-world login system where users can register, authenticate, and access a protected area of the app.
 
-Authentication in modern Android apps is typically handled via backend services (e.g. Firebase Authentication), where user credentials are validated securely before granting access. :contentReference[oaicite:0]{index=0}
+Authentication in modern Android apps is typically handled via backend services (e.g. Firebase Authentication), where user credentials are validated securely before granting access. 
 
 ## Features
 - User registration (email & password)
